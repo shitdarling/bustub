@@ -1,6 +1,5 @@
 <img src="logo/bustub-whiteborder.svg" alt="BusTub Logo" height="200">
 
-//by shitdarling
 -----------------
 
 [![Build Status](https://github.com/cmu-db/bustub/actions/workflows/cmake.yml/badge.svg)](https://github.com/cmu-db/bustub/actions/workflows/cmake.yml)
